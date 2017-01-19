@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAueBB2fab70KFAxY3z3TRIAAAAAACAAAAAAAQZgAAAAEAACAAAAA0HQt3XWLItFmvNeNu5/qxBunEuLIPfz7aK5o86UrAVQAAAAAOgAAAAAIAACAAAADmH3d+qf9kFOfoCpI/lzkZK4Ory/vJqaHTcGpA5fibCCAAAADdLcCas3dDpOPJos4veFpWtazT4u9hSq3mEEDdpAvSwkAAAADgDQcnsYgsp8mao+GrOCTDgi3a3DUGhSc8UCUOTsG8WpGO9SnusNuHg1uyquq1kpz6/9vs4wDc/O9ZSlOg2j13</EncryptedPassword>
+    <_PublishTargetUrl>ftp://chatt.somee.com/www.chatt.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="adminSite.aspx">
+      <publishTime>01/10/2017 18:32:40</publishTime>
+    </File>
+    <File Include="bin/serviceChatt.dll">
+      <publishTime>01/19/2017 10:53:54</publishTime>
+    </File>
+    <File Include="Chat.aspx">
+      <publishTime>01/10/2017 23:52:48</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>01/10/2017 18:32:40</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>01/10/2017 18:32:40</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/19/2017 10:53:58</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

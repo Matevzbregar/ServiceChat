@@ -1,0 +1,6 @@
+C:\Users\Matevz\Source\Repos\IS_servicechatWFC\serviceChatt\serviceChatt\bin\serviceChatt.dll.config
+C:\Users\Matevz\Source\Repos\IS_servicechatWFC\serviceChatt\serviceChatt\bin\serviceChatt.dll
+C:\Users\Matevz\Source\Repos\IS_servicechatWFC\serviceChatt\serviceChatt\bin\serviceChatt.pdb
+C:\Users\Matevz\Source\Repos\IS_servicechatWFC\serviceChatt\serviceChatt\obj\Release\serviceChatt.csprojResolveAssemblyReference.cache
+C:\Users\Matevz\Source\Repos\IS_servicechatWFC\serviceChatt\serviceChatt\obj\Release\serviceChatt.dll
+C:\Users\Matevz\Source\Repos\IS_servicechatWFC\serviceChatt\serviceChatt\obj\Release\serviceChatt.pdb
